@@ -1,0 +1,9 @@
+C:\Users\prantoshon\Documents\Bitm\Assigment\Day2\Bitm_Assignment2\CoffeeHouseWithList\CoffeeHouseWithList\bin\Debug\CoffeeHouseWithList.exe.config
+C:\Users\prantoshon\Documents\Bitm\Assigment\Day2\Bitm_Assignment2\CoffeeHouseWithList\CoffeeHouseWithList\bin\Debug\CoffeeHouseWithList.exe
+C:\Users\prantoshon\Documents\Bitm\Assigment\Day2\Bitm_Assignment2\CoffeeHouseWithList\CoffeeHouseWithList\bin\Debug\CoffeeHouseWithList.pdb
+C:\Users\prantoshon\Documents\Bitm\Assigment\Day2\Bitm_Assignment2\CoffeeHouseWithList\CoffeeHouseWithList\obj\Debug\CoffeeHouseWithList.csprojResolveAssemblyReference.cache
+C:\Users\prantoshon\Documents\Bitm\Assigment\Day2\Bitm_Assignment2\CoffeeHouseWithList\CoffeeHouseWithList\obj\Debug\CoffeeHouseWithList.HomeUi.resources
+C:\Users\prantoshon\Documents\Bitm\Assigment\Day2\Bitm_Assignment2\CoffeeHouseWithList\CoffeeHouseWithList\obj\Debug\CoffeeHouseWithList.Properties.Resources.resources
+C:\Users\prantoshon\Documents\Bitm\Assigment\Day2\Bitm_Assignment2\CoffeeHouseWithList\CoffeeHouseWithList\obj\Debug\CoffeeHouseWithList.csproj.GenerateResource.Cache
+C:\Users\prantoshon\Documents\Bitm\Assigment\Day2\Bitm_Assignment2\CoffeeHouseWithList\CoffeeHouseWithList\obj\Debug\CoffeeHouseWithList.exe
+C:\Users\prantoshon\Documents\Bitm\Assigment\Day2\Bitm_Assignment2\CoffeeHouseWithList\CoffeeHouseWithList\obj\Debug\CoffeeHouseWithList.pdb
